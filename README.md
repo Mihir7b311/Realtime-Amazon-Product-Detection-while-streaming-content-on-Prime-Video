@@ -65,7 +65,7 @@ Our approach involves creating a diverse and robust dataset by integrating real-
 * Make sure your device has an active internet connection.
 * Open the terminal or shell supported by your OS on your PC.
 * Navigate to the directory where you want to clone your project.
-* Clone the repository to your local setup using the command: `git clone https://github.com/bhupesh98/Amazon-HackOn.git`
+* Clone the repository to your local setup using the command: `git clone https://github.com/Mihir7b311/Realtime-Amazon-Product-Detection-while-streaming-content-on-Prime-Video.git`
 
 ### Frontend
 
